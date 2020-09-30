@@ -11,10 +11,11 @@ Past projects completed in the MSc in Data Science (2015-16), with links to the 
 - [Remote sensing - Classification](https://github.com/jaimeps/remote-sensing-aquaculture): Tracking the development of aquaculture through remote sensing and classification in Google Earth Engine
 
 ### Miscellaneous
-- RESTful service with analysis of flights departing from San Francisco
-- Time series modeling of bankruptcy rates in Canada
-- Scraping and data exploration of sports-related tweets
-- Scraping and analysis of Arxiv.org database and comparison of PostgreSQL, Hive and Spark
+- [REST flight stats](https://github.com/jaimeps/analysis-flight-stats): RESTful service with analysis of flights departing from San Francisco
+- [Arxiv database](https://github.com/jaimeps/distributed-computing-arxiv): Scraping and analysis of Arxiv.org database and comparison of PostgreSQL, Hive and Spark
+- [Time series bankruptcy](https://github.com/jaimeps/time-series-bankruptcy): Time series modeling of bankruptcy rates in Canada
+- [Twitter data acquisition](https://github.com/jaimeps/data-acquisition-twitter): Scraping and data exploration of sports-related tweets
+- [Facebook PostgreSQL](https://github.com/jaimeps/facebook-api-db): Crawling with Facebook API
 
 ### Docker & Vagrant:
 - [Docker RL & OpenAI Gym](https://github.com/jaimeps/docker-rl-gym): A Docker environment for reinforcement learning in Python 3
@@ -22,10 +23,10 @@ Past projects completed in the MSc in Data Science (2015-16), with links to the 
 - [Docker Data Science](https://github.com/jaimeps/docker-data-science): A Docker environment for data science in Python 3
 
 ### Design of experiments:
-- Optimization of a sprinkler with full and fractional factorial experiments
+- [Sprinkler experiment](https://github.com/jaimeps/design-of-experiments-sprinkler): Optimization of a sprinkler with full and fractional factorial experiments
 
 ### Visualization:
-- Interactive visualization of the spread of Zika virus in D3.js
-- Interactive visualization of global natural disasters in D3.js 
+- [Zika spread in D3](http://bl.ocks.org/jaimeps/raw/0ba238bd74c5c7e0876ab65c518efcfb/): Interactive visualization of the spread of Zika virus in D3.js
+- [Natural disasters in D3](http://bl.ocks.org/jaimeps/raw/b952056bf5ce15471c1ba5fa2de52e8b/): Interactive visualization of global natural disasters in D3.js 
 
 
